@@ -1,0 +1,6 @@
+computeSourcePath=true
+contextsDir=F\:\\tomcat\\apache-tomcat-9.0.10-windows-x64\\apache-tomcat-9.0.10\\conf\\Catalina\\localhost
+eclipse.preferences.version=1
+tomcatConfigFile=F\:\\tomcat\\apache-tomcat-9.0.10-windows-x64\\apache-tomcat-9.0.10\\conf\\server.xml
+tomcatDir=F\:\\tomcat\\apache-tomcat-9.0.10-windows-x64\\apache-tomcat-9.0.10
+tomcatVersion=tomcatV9
